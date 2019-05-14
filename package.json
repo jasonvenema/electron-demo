@@ -1,0 +1,16 @@
+{
+  "name": "electron-demo",
+  "version": "1.0.0",
+  "description": "Electron demo app",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "jasonvenema",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^5.0.1"
+  }
+}
